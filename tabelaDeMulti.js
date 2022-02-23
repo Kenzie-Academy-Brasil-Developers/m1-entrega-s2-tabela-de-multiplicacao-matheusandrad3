@@ -12,4 +12,4 @@ for (let i = 0; i <= numero; i ++){
 }
 
 let result = tabelaDeMultiplicacao (10);
-console.table (result);
+console.table(result);
